@@ -28,11 +28,23 @@ Master node manages the cluster of servers called Worker Nodes.
 
 ![image](https://user-images.githubusercontent.com/42272776/110516235-4ec65980-812f-11eb-93c3-3a46ce5a6e0c.png)
 
-
-### kubectl
+### Kubectl
 
 - kubectl run hello-minikube
 - kubectl cluster-info
 - kubectl get nodes
+
+# PODs
+Containers in a Kubernetes worker node are encapsulated inside a POD.
+![image](https://user-images.githubusercontent.com/42272776/110517082-65b97b80-8130-11eb-9f5e-41cb17756ca3.png)
+
+PODs usually have a single container. If the requests increase, we simply spawn a new POD in the same node or in another node.
+This helps the cluster serve the growing number of user requests.
+![image](https://user-images.githubusercontent.com/42272776/110517223-9699b080-8130-11eb-9ec4-9f7f58498fdf.png)
+
+PODs over manual spin offs
+![image](https://user-images.githubusercontent.com/42272776/110517550-027c1900-8131-11eb-9e76-de241d1812de.png)
+
+# YAML
 
 
