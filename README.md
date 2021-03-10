@@ -46,5 +46,5 @@ PODs over manual spin offs
 ![image](https://user-images.githubusercontent.com/42272776/110517550-027c1900-8131-11eb-9e76-de241d1812de.png)
 
 # YAML
-
+YAML is the language/syntax that is used for writing Kubernetes configurations.
 
