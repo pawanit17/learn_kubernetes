@@ -67,6 +67,23 @@ The replica set does the managing of the containers. If a container crashes, it 
 ## Commands
 ![image](https://user-images.githubusercontent.com/42272776/110676987-9fef4f80-81fa-11eb-9443-aae5c9c7e831.png)
 
+# Deployment
+
+![image](https://user-images.githubusercontent.com/42272776/110679042-05dcd680-81fd-11eb-9778-53efde4ba55e.png)
+
+![image](https://user-images.githubusercontent.com/42272776/110679118-1ee58780-81fd-11eb-9b25-a057f42a1b9e.png)
+
+## Upgrades
+![image](https://user-images.githubusercontent.com/42272776/110680530-bdbeb380-81fe-11eb-90b2-fd163fe2ec52.png)
+
+## Rollbacks
+
+![image](https://user-images.githubusercontent.com/42272776/110680422-99fb6d80-81fe-11eb-832e-7da795fb7523.png)
+
+## Commands
+
+![image](https://user-images.githubusercontent.com/42272776/110680458-a5e72f80-81fe-11eb-9f66-7ea600762899.png)
+
 
 
 
