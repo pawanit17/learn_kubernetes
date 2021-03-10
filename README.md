@@ -48,3 +48,25 @@ PODs over manual spin offs
 # YAML
 YAML is the language/syntax that is used for writing Kubernetes configurations.
 
+# Replication Controller
+Capable of deploying additional PODs as needed.
+## Sample YAML
+![image](https://user-images.githubusercontent.com/42272776/110676258-c660bb00-81f9-11eb-888a-2a800948645e.png)
+
+# Replica Set
+New technology that replaces Replication Controller.
+## Sample YAML
+![image](https://user-images.githubusercontent.com/42272776/110676442-f90ab380-81f9-11eb-942e-e08b327bcaf5.png)
+
+The replica set does the managing of the containers. If a container crashes, it automatically creates a new one.
+![image](https://user-images.githubusercontent.com/42272776/110676590-2192ad80-81fa-11eb-8fc2-daf469d0b9c2.png)
+
+## Scaling
+![image](https://user-images.githubusercontent.com/42272776/110676915-877f3500-81fa-11eb-8d94-63b98cdd130e.png)
+
+## Commands
+![image](https://user-images.githubusercontent.com/42272776/110676987-9fef4f80-81fa-11eb-9443-aae5c9c7e831.png)
+
+
+
+
