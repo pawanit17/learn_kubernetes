@@ -55,6 +55,7 @@ Capable of deploying additional PODs as needed.
 
 # Replica Set
 New technology that replaces Replication Controller.
+Spawns pods that wrap containers.
 ## Sample YAML
 ![image](https://user-images.githubusercontent.com/42272776/110676442-f90ab380-81f9-11eb-942e-e08b327bcaf5.png)
 
