@@ -85,6 +85,7 @@ The replica set does the managing of the containers. If a container crashes, it 
 
 ![image](https://user-images.githubusercontent.com/42272776/110680458-a5e72f80-81fe-11eb-9f66-7ea600762899.png)
 
-
+Hands-on
+1. Deploy a sample app for a webservice interacting with a databas.
 
 
